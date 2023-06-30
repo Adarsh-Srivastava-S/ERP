@@ -2,9 +2,9 @@
 ## Installation
 
 1.Clone the repository to your local machine using the following command:<br>
-git clone <repository-url><br>
+git clone https://github.com/Adarsh-Srivastava-S/ERP.git<br>
 2.Navigate to the project directory:<br>
-cd <project-directory><br>
+cd (project-directory)<br>
 3.Install the dependencies:<br>
 npm install
 
