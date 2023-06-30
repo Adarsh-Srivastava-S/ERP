@@ -10,7 +10,7 @@ npm install
 
 ## Usage
 
-To run the application locally, follow these steps:
-1.open VS code 
-2.run npm start
+To run the application locally, follow these steps:<br>
+1.open VS code <br>
+2.run npm start<br>
 3.Open your web browser and visit http://localhost:3000 to access the application.
