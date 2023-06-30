@@ -227,7 +227,7 @@ router.post('/login',(req,res,next)=>{
 });
 /**
  * @swagger
- * /users/{userId}:
+ * /user/{userId}:
  *   delete:
  *     summary: Delete a user by ID
  *     tags: [Users]
