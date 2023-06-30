@@ -1,11 +1,11 @@
 # ERP
 ## Installation
 
-1.Clone the repository to your local machine using the following command:
-git clone <repository-url>
-2.Navigate to the project directory:
-cd <project-directory>
-3.Install the dependencies:
+1.Clone the repository to your local machine using the following command:<br>
+git clone <repository-url><br>
+2.Navigate to the project directory:<br>
+cd <project-directory><br>
+3.Install the dependencies:<br>
 npm install
 
 ## Usage
